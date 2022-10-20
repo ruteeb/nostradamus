@@ -19,8 +19,8 @@ This project was built based on the following task:
 ## Help document
 When I work on any project I write a document for MYSELF to follow the process.
 
-**Note:** this file is not an official file to share, maybe it is helpful for you too to show you 
-[Help Document](https://docs.google.com/document/d/1bIaEvTx0x4PY6Z0zIMhw0arSsCpECBwIBAB36Ej9PIk/edit "Help Document")
+**Note:** this file is not an official file to share, maybe it is helpful for you too to show you how I think about
+[Help Document](https://docs.google.com/document/d/1GSLOpbW5V86aJW8jyG0G0AKQDmRnnCjB-f9_ldqZ4bY/edit?usp=sharing "Help Document")
 
 ## Estimated time
 5 hours.
